@@ -1,4 +1,5 @@
 #-*-coding: utf-8 -*-
-for i in range(0,2):
-    print("Välilyöntirivi")
-    print("Tab-rivi")
+import testlibrary
+"""Just fiddling around with libraries"""
+
+testlibrary.bullshit()
