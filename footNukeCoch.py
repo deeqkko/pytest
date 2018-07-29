@@ -1,5 +1,6 @@
 #-*- coding: utf-8 -*-
 import random
+#Just adding a random comment
 
 def intToFootNukeCoch(randResult):
     """Funktio muuntaa annetun kokonaisluvun (0-2) merkkijonoksi"""
@@ -55,3 +56,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+#And some more comments to the end
